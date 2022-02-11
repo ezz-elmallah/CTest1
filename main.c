@@ -174,7 +174,7 @@ int main(void)
             scanf("%s", &username);
         } while (strcmp("ezz", username));
     }
-    printf("\nplease enter your password:\n");
+    printf("\nPlease enter your password:\n");
     printf("\e[0;107m");
     scanf("%d", &pass);
     printf("\e[0;37m");
